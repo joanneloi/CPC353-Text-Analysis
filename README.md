@@ -11,11 +11,12 @@ Exploring Linguistic Patterns in Mental Health Discussions using Concordance and
 - Loh Li Chen
 
 ## Project Structure
-CPC353-Text-Analaysis
+```text
+CPC353-Text-Analysis
 ├─ .gitignore
-├─ convert.py (python script to convert csv to txt)
-├─ csv (contains the csv files for the dataset found online originally)
-├─ data (contains the dataset used for the project)
-├─ txt (contains the text files converted from the csv dataset)
-├─ pos-tagged-txt (contains the pos tagged text files, which is to be used for text analysis)
+├─ convert.py
+├─ csv
+├─ data
+├─ txt
+├─ pos-tagged-txt
 └─ README.md
