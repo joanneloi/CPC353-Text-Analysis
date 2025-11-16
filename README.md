@@ -13,7 +13,6 @@ Exploring Linguistic Patterns in Mental Health Discussions using Concordance and
 ## Project Structure
 ```text
 CPC353-Text-Analysis
-├─ .git
 ├─ dataset (contain the dataset .csv for the project)
 ├─ cleaned_dataset (contain the cleaned .txt file)
 ├─ dataset CPC353.ipynb (jupyter notebook that contain python snippet for splitting & cleaning the dataset)
