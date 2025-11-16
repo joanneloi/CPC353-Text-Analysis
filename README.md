@@ -16,4 +16,5 @@ CPC353-Text-Analysis
 ├─ dataset (contain the dataset .csv for the project)
 ├─ cleaned_dataset (contain the cleaned .txt file)
 ├─ dataset CPC353.ipynb (jupyter notebook that contain python snippet for splitting & cleaning the dataset)
+├─ Part 1 Feeling Expression.ipynb (jupyter notebook that contain python snippet for displaying the bar chart)
 └─ README.md
